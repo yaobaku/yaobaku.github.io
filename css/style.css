@@ -1,0 +1,47 @@
+@media (min-width: 767px){
+.content-section {
+    padding-top: 100px;
+	padding-bottom: 150px;
+}	
+}
+/* MARKETING CONTENT
+-------------------------------------------------- */
+
+/* Center align the text within the three columns below the carousel */
+.marketing .col-lg-4 {
+  margin-bottom: 20px;
+  text-align: center;
+}
+.marketing h2 {
+  font-weight: normal;
+}
+.marketing .col-lg-4 p {
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+.img-circle {
+    border-radius: 42%;
+}
+
+.small-margin {
+	margin-top: 12px;
+	color: #D3D3D3;
+	
+}
+
+p {
+    font-size: 17px;
+   
+}
+
+.fa-fw {
+    width: 1.285714em;
+    text-align: center;
+    font-size: 80px;
+}
+
+.map{
+	width: 100%;
+	
+}
